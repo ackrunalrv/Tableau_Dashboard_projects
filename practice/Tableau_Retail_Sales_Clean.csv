@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_Segment,City,State,Product,Category,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Method,Sales_Channel
+ORD0001,2024-06-17,Student,Bengaluru,Karnataka,Mouse,Accessories,7,1200,0.05,7980.0,6012.89,1967.11,Cash,Online
+ORD0002,2025-06-01,Individual,Jaipur,Rajasthan,Office Chair,Furniture,4,9000,0.0,36000.0,22421.67,13578.33,Credit Card,Online
+ORD0003,2024-08-26,Student,Jaipur,Rajasthan,Notebook,Stationery,1,180,0.1,162.0,147.51,14.49,UPI,Store
+ORD0004,2025-07-07,Individual,Mumbai,Maharashtra,Printer,Office Equipment,2,14000,0.05,26600.0,17490.06,9109.94,UPI,Store
+ORD0005,2024-06-13,Individual,Pune,Maharashtra,Office Chair,Furniture,6,9000,0.1,48600.0,38714.8,9885.2,Net Banking,Online
+ORD0006,2024-03-17,Individual,Mumbai,Maharashtra,Pen Set,Stationery,4,250,0.0,1000.0,754.76,245.24,Cash,Store
+ORD0007,2025-07-26,Student,Pune,Maharashtra,Backpack,Accessories,7,1800,0.0,12600.0,8671.9,3928.1,Debit Card,Store
+ORD0008,2025-04-07,Corporate,Jaipur,Rajasthan,Office Chair,Furniture,7,9000,0.05,59850.0,51595.02,8254.98,UPI,Online
+ORD0009,2024-06-11,Corporate,Bengaluru,Karnataka,Notebook,Stationery,8,180,0.0,1440.0,1034.36,405.64,Cash,Online
+ORD0010,2024-07-04,Corporate,Hyderabad,Telangana,Bookshelf,Furniture,3,7000,0.05,19950.0,16521.37,3428.63,Cash,Store
+ORD0011,2024-09-08,Student,Pune,Maharashtra,Smartphone,Electronics,3,28000,0.0,84000.0,67588.58,16411.42,Debit Card,Online
+ORD0012,2025-11-30,Individual,Pune,Maharashtra,Laptop,Electronics,4,55000,0.1,198000.0,176782.49,21217.51,Debit Card,Store
+ORD0013,2025-06-02,Student,Mumbai,Maharashtra,Mouse,Accessories,4,1200,0.0,4800.0,3131.8,1668.2,Net Banking,Store
+ORD0014,2024-02-28,Individual,Delhi,Delhi,Backpack,Accessories,5,1800,0.0,9000.0,7115.95,1884.05,Net Banking,Online
+ORD0015,2024-06-23,Business,Pune,Maharashtra,Mouse,Accessories,2,1200,0.05,2280.0,1797.81,482.19,Net Banking,Online
+ORD0016,2024-09-15,Business,Hyderabad,Telangana,Tablet,Electronics,8,22000,0.0,176000.0,142659.59,33340.41,Debit Card,Store
+ORD0017,2025-05-11,Business,Delhi,Delhi,Desk,Furniture,8,12000,0.05,91200.0,62184.87,29015.13,UPI,Store
+ORD0018,2025-12-02,Student,Bengaluru,Karnataka,Tablet,Electronics,1,22000,0.05,20900.0,16252.22,4647.78,Debit Card,Store
+ORD0019,2024-05-21,Individual,Pune,Maharashtra,Tablet,Electronics,3,22000,0.0,66000.0,46159.88,19840.12,Net Banking,Online
+ORD0020,2024-03-14,Student,Hyderabad,Telangana,Backpack,Accessories,2,1800,0.05,3420.0,2323.1,1096.9,Net Banking,Online
+ORD0021,2025-09-28,Individual,Bengaluru,Karnataka,Tablet,Electronics,3,22000,0.0,66000.0,52238.92,13761.08,Cash,Online
+ORD0022,2024-01-09,Business,Pune,Maharashtra,Mouse,Accessories,8,1200,0.0,9600.0,6716.04,2883.96,Debit Card,Store
+ORD0023,2024-02-12,Student,Delhi,Delhi,Monitor,Electronics,7,16000,0.0,112000.0,76370.82,35629.18,Cash,Online
+ORD0024,2025-07-12,Corporate,Hyderabad,Telangana,Desk,Furniture,1,12000,0.15,10200.0,8867.43,1332.57,Debit Card,Online
+ORD0025,2024-03-06,Student,Hyderabad,Telangana,Desk,Furniture,6,12000,0.0,72000.0,49755.25,22244.75,UPI,Online
+ORD0026,2025-10-29,Student,Ahmedabad,Gujarat,Smartphone,Electronics,8,28000,0.15,190400.0,166718.32,23681.68,Net Banking,Store
+ORD0027,2025-02-15,Individual,Jaipur,Rajasthan,Smartphone,Electronics,4,28000,0.0,112000.0,70533.57,41466.43,Credit Card,Store
+ORD0028,2025-12-22,Student,Bengaluru,Karnataka,Desk,Furniture,7,12000,0.1,75600.0,59740.67,15859.33,Net Banking,Store
+ORD0029,2025-05-13,Corporate,Surat,Gujarat,Monitor,Electronics,2,16000,0.0,32000.0,22910.13,9089.87,Cash,Online
+ORD0030,2025-04-05,Student,Surat,Gujarat,Bookshelf,Furniture,5,7000,0.0,35000.0,25068.4,9931.6,Debit Card,Store
+ORD0031,2025-06-20,Student,Delhi,Delhi,Notebook,Stationery,1,180,0.0,180.0,122.85,57.15,Credit Card,Online
+ORD0032,2025-07-20,Student,Jaipur,Rajasthan,Tablet,Electronics,2,22000,0.15,37400.0,29942.9,7457.1,UPI,Online
+ORD0033,2025-12-21,Corporate,Bengaluru,Karnataka,Mouse,Accessories,4,1200,0.05,4560.0,3333.1,1226.9,UPI,Online
+ORD0034,2024-11-25,Business,Bengaluru,Karnataka,Office Chair,Furniture,5,9000,0.0,45000.0,35997.49,9002.51,Cash,Store
+ORD0035,2025-01-23,Corporate,Surat,Gujarat,Tablet,Electronics,7,22000,0.1,138600.0,107851.85,30748.15,Credit Card,Store
+ORD0036,2025-09-28,Individual,Bengaluru,Karnataka,Headphones,Accessories,2,3500,0.0,7000.0,5705.24,1294.76,Debit Card,Store
+ORD0037,2024-01-20,Business,Surat,Gujarat,Smartphone,Electronics,1,28000,0.1,25200.0,20764.03,4435.97,UPI,Online
+ORD0038,2024-04-06,Corporate,Ahmedabad,Gujarat,Headphones,Accessories,4,3500,0.1,12600.0,9717.6,2882.4,Credit Card,Online
+ORD0039,2025-08-07,Business,Delhi,Delhi,Pen Set,Stationery,7,250,0.15,1487.5,1379.28,108.22,Net Banking,Store
+ORD0040,2025-07-19,Individual,Surat,Gujarat,Monitor,Electronics,4,16000,0.15,54400.0,49950.38,4449.62,Cash,Online
+ORD0041,2024-03-23,Student,Surat,Gujarat,Mouse,Accessories,4,1200,0.0,4800.0,3033.26,1766.74,Debit Card,Online
+ORD0042,2024-10-03,Individual,Ahmedabad,Gujarat,Tablet,Electronics,6,22000,0.05,125400.0,89706.89,35693.11,UPI,Online
+ORD0043,2025-06-08,Business,Ahmedabad,Gujarat,Smartphone,Electronics,4,28000,0.05,106400.0,75484.84,30915.16,UPI,Store
+ORD0044,2024-10-08,Corporate,Bengaluru,Karnataka,Bookshelf,Furniture,7,7000,0.0,49000.0,30697.91,18302.09,Cash,Store
+ORD0045,2025-02-22,Business,Hyderabad,Telangana,Monitor,Electronics,4,16000,0.15,54400.0,45100.49,9299.51,Credit Card,Online
+ORD0046,2024-12-26,Student,Surat,Gujarat,Desk,Furniture,3,12000,0.0,36000.0,27429.34,8570.66,Credit Card,Store
+ORD0047,2024-01-20,Corporate,Mumbai,Maharashtra,USB Drive,Accessories,5,900,0.0,4500.0,2985.58,1514.42,Net Banking,Online
+ORD0048,2025-04-20,Corporate,Pune,Maharashtra,USB Drive,Accessories,6,900,0.0,5400.0,4334.26,1065.74,Cash,Online
+ORD0049,2025-01-20,Business,Jaipur,Rajasthan,Bookshelf,Furniture,3,7000,0.0,21000.0,16929.35,4070.65,Credit Card,Store
+ORD0050,2025-04-05,Corporate,Pune,Maharashtra,Notebook,Stationery,6,180,0.0,1080.0,721.41,358.59,Cash,Store
+ORD0051,2025-08-09,Business,Ahmedabad,Gujarat,Tablet,Electronics,1,22000,0.1,19800.0,17840.32,1959.68,UPI,Online
+ORD0052,2025-06-29,Business,Pune,Maharashtra,Office Chair,Furniture,6,9000,0.15,45900.0,36677.88,9222.12,Net Banking,Store
+ORD0053,2025-05-21,Student,Jaipur,Rajasthan,Pen Set,Stationery,4,250,0.0,1000.0,670.59,329.41,Credit Card,Store
+ORD0054,2025-05-03,Individual,Bengaluru,Karnataka,Headphones,Accessories,1,3500,0.15,2975.0,2771.12,203.88,Debit Card,Store
+ORD0055,2024-11-05,Business,Jaipur,Rajasthan,Notebook,Stationery,3,180,0.0,540.0,442.09,97.91,Net Banking,Online
+ORD0056,2024-01-04,Business,Surat,Gujarat,Pen Set,Stationery,5,250,0.15,1062.5,983.11,79.39,Net Banking,Online
+ORD0057,2025-07-20,Student,Pune,Maharashtra,Pen Set,Stationery,8,250,0.0,2000.0,1250.84,749.16,Debit Card,Store
+ORD0058,2024-12-28,Corporate,Mumbai,Maharashtra,Mouse,Accessories,8,1200,0.15,8160.0,7331.72,828.28,UPI,Store
+ORD0059,2025-11-02,Corporate,Bengaluru,Karnataka,Headphones,Accessories,8,3500,0.0,28000.0,22557.66,5442.34,UPI,Store
+ORD0060,2024-09-11,Individual,Delhi,Delhi,Bookshelf,Furniture,3,7000,0.0,21000.0,16177.18,4822.82,Cash,Store
+ORD0061,2025-10-23,Business,Surat,Gujarat,Monitor,Electronics,4,16000,0.0,64000.0,46048.85,17951.15,UPI,Store
+ORD0062,2025-10-26,Corporate,Pune,Maharashtra,Office Chair,Furniture,6,9000,0.0,54000.0,35567.17,18432.83,UPI,Store
+ORD0063,2025-12-14,Business,Ahmedabad,Gujarat,Backpack,Accessories,7,1800,0.0,12600.0,8122.57,4477.43,Cash,Store
+ORD0064,2025-05-14,Business,Hyderabad,Telangana,Office Chair,Furniture,6,9000,0.1,48600.0,40351.11,8248.89,Debit Card,Store
+ORD0065,2025-03-30,Business,Surat,Gujarat,Bookshelf,Furniture,8,7000,0.15,47600.0,41285.59,6314.41,UPI,Store
+ORD0066,2024-08-14,Individual,Pune,Maharashtra,Pen Set,Stationery,2,250,0.05,475.0,359.01,115.99,Debit Card,Store
+ORD0067,2025-12-09,Business,Surat,Gujarat,Keyboard,Accessories,5,1800,0.0,9000.0,7316.2,1683.8,Credit Card,Online
+ORD0068,2024-01-11,Business,Mumbai,Maharashtra,Desk,Furniture,3,12000,0.0,36000.0,23911.32,12088.68,Cash,Online
+ORD0069,2025-10-05,Individual,Bengaluru,Karnataka,Mouse,Accessories,2,1200,0.0,2400.0,1585.52,814.48,UPI,Online
+ORD0070,2024-08-12,Student,Ahmedabad,Gujarat,Desk,Furniture,2,12000,0.0,24000.0,15857.63,8142.37,Debit Card,Store
+ORD0071,2025-12-04,Student,Ahmedabad,Gujarat,Keyboard,Accessories,7,1800,0.0,12600.0,9266.16,3333.84,Cash,Store
+ORD0072,2024-07-05,Business,Delhi,Delhi,Laptop,Electronics,2,55000,0.05,104500.0,85276.95,19223.05,Debit Card,Store
+ORD0073,2025-01-14,Individual,Delhi,Delhi,Bookshelf,Furniture,8,7000,0.05,53200.0,39080.31,14119.69,UPI,Store
+ORD0074,2025-08-21,Business,Pune,Maharashtra,Smartphone,Electronics,8,28000,0.05,212800.0,175643.33,37156.67,Debit Card,Store
+ORD0075,2025-02-03,Corporate,Ahmedabad,Gujarat,Smartphone,Electronics,5,28000,0.1,126000.0,112184.07,13815.93,Net Banking,Online
+ORD0076,2025-10-04,Individual,Bengaluru,Karnataka,Printer,Office Equipment,4,14000,0.15,47600.0,44611.79,2988.21,Net Banking,Store
+ORD0077,2025-09-14,Student,Ahmedabad,Gujarat,Keyboard,Accessories,7,1800,0.0,12600.0,9753.46,2846.54,Cash,Online
+ORD0078,2024-06-15,Individual,Hyderabad,Telangana,Laptop,Electronics,4,55000,0.0,220000.0,143676.46,76323.54,Credit Card,Store
+ORD0079,2024-09-11,Corporate,Bengaluru,Karnataka,Notebook,Stationery,6,180,0.15,918.0,852.32,65.68,Cash,Online
+ORD0080,2025-12-09,Corporate,Pune,Maharashtra,Keyboard,Accessories,8,1800,0.0,14400.0,9874.11,4525.89,UPI,Online
+ORD0081,2024-09-08,Student,Pune,Maharashtra,Notebook,Stationery,5,180,0.05,855.0,658.78,196.22,UPI,Store
+ORD0082,2024-09-30,Student,Bengaluru,Karnataka,Monitor,Electronics,4,16000,0.0,64000.0,50843.22,13156.78,Credit Card,Store
+ORD0083,2025-10-28,Student,Jaipur,Rajasthan,Notebook,Stationery,4,180,0.0,720.0,540.73,179.27,Debit Card,Online
+ORD0084,2025-06-15,Business,Mumbai,Maharashtra,Mouse,Accessories,1,1200,0.0,1200.0,915.15,284.85,Net Banking,Online
+ORD0085,2025-04-29,Student,Delhi,Delhi,Laptop,Electronics,2,55000,0.05,104500.0,70649.11,33850.89,Debit Card,Store
+ORD0086,2025-02-05,Corporate,Jaipur,Rajasthan,Notebook,Stationery,2,180,0.05,342.0,248.32,93.68,Net Banking,Store
+ORD0087,2025-12-19,Business,Hyderabad,Telangana,Headphones,Accessories,6,3500,0.0,21000.0,15245.64,5754.36,Credit Card,Online
+ORD0088,2024-10-12,Business,Ahmedabad,Gujarat,Pen Set,Stationery,3,250,0.0,750.0,610.25,139.75,Debit Card,Online
+ORD0089,2025-05-31,Business,Bengaluru,Karnataka,Laptop,Electronics,1,55000,0.0,55000.0,36008.47,18991.53,Debit Card,Online
+ORD0090,2025-09-13,Student,Delhi,Delhi,Pen Set,Stationery,4,250,0.0,1000.0,654.76,345.24,Debit Card,Store
+ORD0091,2024-08-09,Individual,Delhi,Delhi,Notebook,Stationery,7,180,0.1,1134.0,980.67,153.33,Credit Card,Store
+ORD0092,2024-11-24,Individual,Bengaluru,Karnataka,Monitor,Electronics,5,16000,0.1,72000.0,61916.6,10083.4,Cash,Store
+ORD0093,2025-04-16,Individual,Surat,Gujarat,Notebook,Stationery,3,180,0.0,540.0,412.49,127.51,Net Banking,Store
+ORD0094,2024-03-27,Individual,Mumbai,Maharashtra,USB Drive,Accessories,8,900,0.0,7200.0,5640.71,1559.29,UPI,Store
+ORD0095,2025-06-17,Individual,Surat,Gujarat,Tablet,Electronics,1,22000,0.0,22000.0,17474.64,4525.36,Cash,Store
+ORD0096,2025-01-07,Business,Delhi,Delhi,Desk,Furniture,7,12000,0.1,75600.0,60287.15,15312.85,Cash,Store
+ORD0097,2025-10-16,Business,Pune,Maharashtra,Pen Set,Stationery,4,250,0.05,950.0,633.76,316.24,Net Banking,Store
+ORD0098,2025-07-25,Corporate,Mumbai,Maharashtra,Headphones,Accessories,6,3500,0.1,18900.0,15276.84,3623.16,Cash,Online
+ORD0099,2024-03-21,Corporate,Surat,Gujarat,Bookshelf,Furniture,4,7000,0.0,28000.0,19936.52,8063.48,Cash,Online
+ORD0100,2025-11-04,Corporate,Hyderabad,Telangana,Office Chair,Furniture,8,9000,0.05,68400.0,55747.84,12652.16,Cash,Store
+ORD0101,2025-07-01,Business,Pune,Maharashtra,Mouse,Accessories,4,1200,0.05,4560.0,3171.46,1388.54,UPI,Online
+ORD0102,2024-09-28,Business,Delhi,Delhi,Backpack,Accessories,8,1800,0.1,12960.0,10646.63,2313.37,Cash,Store
+ORD0103,2024-03-30,Business,Mumbai,Maharashtra,Backpack,Accessories,2,1800,0.05,3420.0,2637.47,782.53,Cash,Online
+ORD0104,2025-12-14,Corporate,Jaipur,Rajasthan,Laptop,Electronics,4,55000,0.1,198000.0,167135.94,30864.06,Cash,Online
+ORD0105,2025-03-17,Business,Jaipur,Rajasthan,Monitor,Electronics,1,16000,0.05,15200.0,13019.15,2180.85,Debit Card,Store
+ORD0106,2025-05-18,Corporate,Delhi,Delhi,Headphones,Accessories,4,3500,0.0,14000.0,10559.31,3440.69,Debit Card,Store
+ORD0107,2025-06-09,Business,Bengaluru,Karnataka,Laptop,Electronics,5,55000,0.0,275000.0,223123.27,51876.73,UPI,Store
+ORD0108,2025-11-01,Corporate,Pune,Maharashtra,Pen Set,Stationery,4,250,0.0,1000.0,774.18,225.82,Cash,Online
+ORD0109,2024-02-04,Student,Pune,Maharashtra,Laptop,Electronics,8,55000,0.15,374000.0,325686.49,48313.51,Net Banking,Store
+ORD0110,2025-04-19,Student,Jaipur,Rajasthan,Pen Set,Stationery,1,250,0.0,250.0,162.3,87.7,Credit Card,Store
+ORD0111,2025-01-27,Individual,Pune,Maharashtra,Keyboard,Accessories,2,1800,0.0,3600.0,2696.01,903.99,UPI,Store
+ORD0112,2024-02-10,Corporate,Surat,Gujarat,Smartphone,Electronics,7,28000,0.05,186200.0,143045.28,43154.72,UPI,Store
+ORD0113,2024-02-25,Individual,Surat,Gujarat,Pen Set,Stationery,5,250,0.0,1250.0,864.46,385.54,Debit Card,Online
+ORD0114,2025-04-12,Individual,Delhi,Delhi,Mouse,Accessories,7,1200,0.1,7560.0,6578.9,981.1,Net Banking,Online
+ORD0115,2025-10-21,Corporate,Surat,Gujarat,USB Drive,Accessories,1,900,0.15,765.0,605.75,159.25,Debit Card,Store
+ORD0116,2024-08-26,Corporate,Bengaluru,Karnataka,Pen Set,Stationery,7,250,0.1,1575.0,1397.6,177.4,Debit Card,Store
+ORD0117,2024-10-16,Corporate,Mumbai,Maharashtra,Bookshelf,Furniture,8,7000,0.0,56000.0,45490.57,10509.43,UPI,Online
+ORD0118,2025-05-24,Corporate,Jaipur,Rajasthan,Bookshelf,Furniture,8,7000,0.05,53200.0,43571.23,9628.77,Net Banking,Online
+ORD0119,2025-06-22,Business,Mumbai,Maharashtra,Headphones,Accessories,2,3500,0.0,7000.0,4587.84,2412.16,Debit Card,Store
+ORD0120,2025-06-26,Individual,Pune,Maharashtra,Office Chair,Furniture,7,9000,0.1,56700.0,40398.97,16301.03,Cash,Store
+ORD0121,2025-05-20,Individual,Bengaluru,Karnataka,Monitor,Electronics,7,16000,0.0,112000.0,74556.28,37443.72,Credit Card,Online
+ORD0122,2024-02-22,Individual,Bengaluru,Karnataka,Keyboard,Accessories,7,1800,0.15,10710.0,9566.62,1143.38,Net Banking,Store
+ORD0123,2024-04-05,Student,Bengaluru,Karnataka,Backpack,Accessories,5,1800,0.0,9000.0,6817.66,2182.34,Net Banking,Store
+ORD0124,2024-12-19,Individual,Delhi,Delhi,Laptop,Electronics,6,55000,0.1,297000.0,253630.95,43369.05,UPI,Online
+ORD0125,2024-02-03,Individual,Surat,Gujarat,Printer,Office Equipment,7,14000,0.05,93100.0,79288.68,13811.32,Cash,Store
+ORD0126,2025-10-05,Business,Delhi,Delhi,Bookshelf,Furniture,1,7000,0.05,6650.0,5381.66,1268.34,UPI,Online
+ORD0127,2025-09-03,Business,Delhi,Delhi,USB Drive,Accessories,3,900,0.15,2295.0,1693.73,601.27,Net Banking,Online
+ORD0128,2024-01-26,Corporate,Mumbai,Maharashtra,Smartphone,Electronics,5,28000,0.1,126000.0,106233.78,19766.22,Net Banking,Store
+ORD0129,2025-05-01,Business,Hyderabad,Telangana,Pen Set,Stationery,5,250,0.0,1250.0,896.43,353.57,Cash,Store
+ORD0130,2024-08-10,Business,Jaipur,Rajasthan,Laptop,Electronics,3,55000,0.1,148500.0,125652.73,22847.27,UPI,Online
+ORD0131,2025-05-06,Business,Ahmedabad,Gujarat,Headphones,Accessories,2,3500,0.0,7000.0,4592.52,2407.48,Cash,Online
+ORD0132,2025-05-04,Corporate,Surat,Gujarat,USB Drive,Accessories,4,900,0.0,3600.0,2910.01,689.99,UPI,Online
+ORD0133,2024-05-13,Corporate,Delhi,Delhi,Bookshelf,Furniture,6,7000,0.05,39900.0,29558.15,10341.85,Debit Card,Store
+ORD0134,2025-01-14,Corporate,Ahmedabad,Gujarat,Monitor,Electronics,3,16000,0.05,45600.0,38134.39,7465.61,Credit Card,Store
+ORD0135,2025-10-13,Corporate,Hyderabad,Telangana,Office Chair,Furniture,7,9000,0.0,63000.0,47198.89,15801.11,Credit Card,Online
+ORD0136,2025-09-12,Student,Jaipur,Rajasthan,Laptop,Electronics,1,55000,0.1,49500.0,35824.64,13675.36,Cash,Online
+ORD0137,2025-06-15,Corporate,Ahmedabad,Gujarat,Mouse,Accessories,7,1200,0.0,8400.0,5456.36,2943.64,Net Banking,Online
+ORD0138,2025-07-25,Corporate,Mumbai,Maharashtra,Office Chair,Furniture,7,9000,0.05,59850.0,42404.55,17445.45,UPI,Store
+ORD0139,2024-09-09,Student,Hyderabad,Telangana,Headphones,Accessories,8,3500,0.0,28000.0,17734.7,10265.3,Debit Card,Store
+ORD0140,2024-06-28,Business,Surat,Gujarat,Notebook,Stationery,7,180,0.05,1197.0,956.35,240.65,Cash,Online
+ORD0141,2025-09-09,Student,Mumbai,Maharashtra,Backpack,Accessories,4,1800,0.15,6120.0,5170.05,949.95,Credit Card,Online
+ORD0142,2024-12-27,Student,Delhi,Delhi,USB Drive,Accessories,3,900,0.1,2430.0,2088.16,341.84,Net Banking,Store
+ORD0143,2024-03-23,Individual,Bengaluru,Karnataka,Monitor,Electronics,7,16000,0.05,106400.0,82232.85,24167.15,Debit Card,Store
+ORD0144,2024-11-02,Individual,Pune,Maharashtra,Bookshelf,Furniture,6,7000,0.15,35700.0,31387.66,4312.34,Net Banking,Store
+ORD0145,2025-04-02,Student,Bengaluru,Karnataka,Smartphone,Electronics,3,28000,0.0,84000.0,52602.39,31397.61,UPI,Store
+ORD0146,2024-06-11,Student,Mumbai,Maharashtra,Desk,Furniture,4,12000,0.0,48000.0,34015.31,13984.69,Net Banking,Online
+ORD0147,2024-05-16,Individual,Ahmedabad,Gujarat,Printer,Office Equipment,7,14000,0.15,83300.0,64639.04,18660.96,Cash,Store
+ORD0148,2024-05-11,Corporate,Mumbai,Maharashtra,Pen Set,Stationery,4,250,0.05,950.0,775.42,174.58,Credit Card,Store
+ORD0149,2024-12-31,Student,Delhi,Delhi,Notebook,Stationery,7,180,0.0,1260.0,961.83,298.17,Net Banking,Store
+ORD0150,2025-10-19,Corporate,Pune,Maharashtra,Laptop,Electronics,7,55000,0.0,385000.0,314129.07,70870.93,Net Banking,Store
+ORD0151,2024-03-20,Individual,Mumbai,Maharashtra,Headphones,Accessories,6,3500,0.1,18900.0,16012.52,2887.48,Debit Card,Online
+ORD0152,2025-05-06,Individual,Hyderabad,Telangana,Headphones,Accessories,7,3500,0.0,24500.0,19374.07,5125.93,Credit Card,Store
+ORD0153,2025-07-18,Individual,Hyderabad,Telangana,Mouse,Accessories,1,1200,0.0,1200.0,938.6,261.4,Net Banking,Store
+ORD0154,2024-04-15,Business,Pune,Maharashtra,Tablet,Electronics,6,22000,0.0,132000.0,87105.91,44894.09,Net Banking,Store
+ORD0155,2025-06-05,Business,Pune,Maharashtra,Smartphone,Electronics,5,28000,0.1,126000.0,102611.46,23388.54,UPI,Store
+ORD0156,2024-03-17,Individual,Delhi,Delhi,Mouse,Accessories,2,1200,0.05,2280.0,1867.12,412.88,Credit Card,Store
+ORD0157,2024-08-23,Individual,Delhi,Delhi,Desk,Furniture,8,12000,0.05,91200.0,62975.73,28224.27,Debit Card,Online
+ORD0158,2025-03-21,Corporate,Ahmedabad,Gujarat,USB Drive,Accessories,3,900,0.1,2430.0,2001.95,428.05,Cash,Store
+ORD0159,2024-07-18,Business,Pune,Maharashtra,Mouse,Accessories,7,1200,0.15,7140.0,5943.72,1196.28,UPI,Store
+ORD0160,2025-04-06,Individual,Delhi,Delhi,Keyboard,Accessories,8,1800,0.0,14400.0,11581.2,2818.8,Debit Card,Online
+ORD0161,2024-07-17,Individual,Hyderabad,Telangana,Bookshelf,Furniture,2,7000,0.0,14000.0,9329.04,4670.96,Net Banking,Online
+ORD0162,2025-07-18,Business,Mumbai,Maharashtra,Backpack,Accessories,6,1800,0.15,9180.0,7800.44,1379.56,Debit Card,Store
+ORD0163,2024-01-04,Student,Bengaluru,Karnataka,Keyboard,Accessories,8,1800,0.0,14400.0,10186.05,4213.95,Credit Card,Store
+ORD0164,2024-05-17,Business,Pune,Maharashtra,Headphones,Accessories,4,3500,0.0,14000.0,10964.42,3035.58,Debit Card,Store
+ORD0165,2024-07-07,Individual,Ahmedabad,Gujarat,Desk,Furniture,7,12000,0.15,71400.0,60302.95,11097.05,Credit Card,Store
+ORD0166,2025-08-05,Corporate,Pune,Maharashtra,Backpack,Accessories,2,1800,0.1,3240.0,2309.51,930.49,Net Banking,Online
+ORD0167,2025-05-27,Individual,Ahmedabad,Gujarat,Desk,Furniture,8,12000,0.0,96000.0,61824.32,34175.68,Net Banking,Online
+ORD0168,2025-06-26,Corporate,Pune,Maharashtra,Backpack,Accessories,3,1800,0.0,5400.0,4059.62,1340.38,Debit Card,Store
+ORD0169,2024-12-05,Corporate,Delhi,Delhi,Desk,Furniture,3,12000,0.0,36000.0,28115.13,7884.87,Net Banking,Online
+ORD0170,2025-01-16,Individual,Delhi,Delhi,Laptop,Electronics,7,55000,0.1,346500.0,267305.9,79194.1,Debit Card,Store
+ORD0171,2024-02-06,Business,Jaipur,Rajasthan,USB Drive,Accessories,8,900,0.1,6480.0,5478.31,1001.69,UPI,Online
+ORD0172,2024-08-31,Individual,Mumbai,Maharashtra,Laptop,Electronics,1,55000,0.0,55000.0,43012.96,11987.04,Net Banking,Store
+ORD0173,2025-11-01,Student,Jaipur,Rajasthan,Desk,Furniture,5,12000,0.1,54000.0,46892.53,7107.47,Credit Card,Online
+ORD0174,2025-09-26,Business,Mumbai,Maharashtra,Smartphone,Electronics,4,28000,0.15,95200.0,90378.74,4821.26,Net Banking,Store
+ORD0175,2024-09-06,Business,Jaipur,Rajasthan,Monitor,Electronics,2,16000,0.0,32000.0,24401.38,7598.62,Net Banking,Store
+ORD0176,2024-01-20,Business,Jaipur,Rajasthan,Backpack,Accessories,4,1800,0.05,6840.0,5201.82,1638.18,Credit Card,Online
+ORD0177,2025-04-09,Individual,Mumbai,Maharashtra,Mouse,Accessories,4,1200,0.0,4800.0,3497.05,1302.95,Net Banking,Store
+ORD0178,2024-04-02,Corporate,Ahmedabad,Gujarat,Smartphone,Electronics,8,28000,0.0,224000.0,182021.41,41978.59,Credit Card,Online
+ORD0179,2024-08-18,Corporate,Delhi,Delhi,Desk,Furniture,3,12000,0.0,36000.0,27611.46,8388.54,Cash,Store
+ORD0180,2024-08-22,Corporate,Jaipur,Rajasthan,Monitor,Electronics,2,16000,0.0,32000.0,23558.07,8441.93,Net Banking,Store
+ORD0181,2025-04-14,Corporate,Hyderabad,Telangana,Office Chair,Furniture,4,9000,0.15,30600.0,29237.81,1362.19,Debit Card,Store
+ORD0182,2024-12-17,Business,Pune,Maharashtra,Bookshelf,Furniture,8,7000,0.0,56000.0,44709.46,11290.54,Cash,Store
+ORD0183,2025-07-04,Individual,Delhi,Delhi,Smartphone,Electronics,6,28000,0.05,159600.0,109451.04,50148.96,UPI,Store
+ORD0184,2024-08-31,Business,Ahmedabad,Gujarat,Bookshelf,Furniture,5,7000,0.1,31500.0,24902.22,6597.78,UPI,Online
+ORD0185,2025-01-23,Corporate,Surat,Gujarat,Laptop,Electronics,7,55000,0.0,385000.0,245128.58,139871.42,Cash,Store
+ORD0186,2025-08-10,Corporate,Mumbai,Maharashtra,Backpack,Accessories,7,1800,0.0,12600.0,8971.85,3628.15,Cash,Store
+ORD0187,2024-04-02,Individual,Hyderabad,Telangana,Backpack,Accessories,7,1800,0.0,12600.0,8678.62,3921.38,Credit Card,Online
+ORD0188,2024-07-06,Individual,Hyderabad,Telangana,Laptop,Electronics,1,55000,0.0,55000.0,39130.61,15869.39,UPI,Store
+ORD0189,2024-10-01,Individual,Pune,Maharashtra,Notebook,Stationery,6,180,0.0,1080.0,707.17,372.83,Debit Card,Store
+ORD0190,2024-07-03,Individual,Surat,Gujarat,USB Drive,Accessories,6,900,0.0,5400.0,4150.72,1249.28,Net Banking,Online
+ORD0191,2024-05-20,Student,Ahmedabad,Gujarat,Office Chair,Furniture,2,9000,0.05,17100.0,11425.87,5674.13,Credit Card,Online
+ORD0192,2025-12-17,Corporate,Bengaluru,Karnataka,Printer,Office Equipment,3,14000,0.0,42000.0,33060.78,8939.22,Cash,Store
+ORD0193,2024-09-30,Individual,Ahmedabad,Gujarat,Laptop,Electronics,1,55000,0.0,55000.0,39629.77,15370.23,Net Banking,Store
+ORD0194,2025-04-18,Individual,Pune,Maharashtra,Office Chair,Furniture,3,9000,0.1,24300.0,20881.5,3418.5,Net Banking,Online
+ORD0195,2025-06-22,Corporate,Surat,Gujarat,Printer,Office Equipment,3,14000,0.05,39900.0,30276.84,9623.16,UPI,Online
+ORD0196,2025-11-22,Individual,Mumbai,Maharashtra,Desk,Furniture,8,12000,0.15,81600.0,67470.56,14129.44,UPI,Online
+ORD0197,2024-10-07,Student,Delhi,Delhi,Smartphone,Electronics,6,28000,0.0,168000.0,129027.64,38972.36,UPI,Online
+ORD0198,2024-05-08,Individual,Hyderabad,Telangana,Tablet,Electronics,6,22000,0.0,132000.0,107571.66,24428.34,Cash,Online
+ORD0199,2024-06-12,Individual,Pune,Maharashtra,Bookshelf,Furniture,6,7000,0.0,42000.0,33117.32,8882.68,UPI,Store
+ORD0200,2025-09-03,Student,Jaipur,Rajasthan,Desk,Furniture,6,12000,0.0,72000.0,58224.71,13775.29,Cash,Store
+ORD0201,2024-01-22,Individual,Bengaluru,Karnataka,Monitor,Electronics,5,16000,0.15,68000.0,50093.82,17906.18,Credit Card,Online
+ORD0202,2024-12-02,Business,Hyderabad,Telangana,Mouse,Accessories,4,1200,0.1,4320.0,3863.49,456.51,Net Banking,Store
+ORD0203,2024-09-26,Corporate,Pune,Maharashtra,Mouse,Accessories,6,1200,0.0,7200.0,5274.08,1925.92,Cash,Online
+ORD0204,2025-01-01,Corporate,Surat,Gujarat,Keyboard,Accessories,8,1800,0.15,12240.0,10143.88,2096.12,Credit Card,Online
+ORD0205,2025-07-05,Student,Mumbai,Maharashtra,Notebook,Stationery,4,180,0.0,720.0,491.82,228.18,Net Banking,Online
+ORD0206,2025-11-17,Individual,Mumbai,Maharashtra,Pen Set,Stationery,4,250,0.0,1000.0,707.56,292.44,UPI,Online
+ORD0207,2025-04-05,Business,Jaipur,Rajasthan,Tablet,Electronics,3,22000,0.0,66000.0,46483.12,19516.88,Debit Card,Store
+ORD0208,2024-02-07,Student,Hyderabad,Telangana,USB Drive,Accessories,4,900,0.15,3060.0,2683.3,376.7,Debit Card,Store
+ORD0209,2025-08-27,Student,Pune,Maharashtra,Desk,Furniture,4,12000,0.05,45600.0,36790.48,8809.52,UPI,Online
+ORD0210,2025-08-13,Individual,Jaipur,Rajasthan,Backpack,Accessories,6,1800,0.0,10800.0,7653.17,3146.83,UPI,Online
+ORD0211,2025-07-20,Individual,Delhi,Delhi,Backpack,Accessories,5,1800,0.0,9000.0,6446.3,2553.7,Cash,Store
+ORD0212,2024-07-20,Corporate,Delhi,Delhi,Mouse,Accessories,1,1200,0.0,1200.0,902.26,297.74,UPI,Store
+ORD0213,2025-05-24,Individual,Surat,Gujarat,Laptop,Electronics,3,55000,0.0,165000.0,105109.1,59890.9,Net Banking,Online
+ORD0214,2024-12-17,Business,Pune,Maharashtra,Mouse,Accessories,5,1200,0.0,6000.0,4572.17,1427.83,Credit Card,Online
+ORD0215,2025-04-13,Individual,Hyderabad,Telangana,Notebook,Stationery,8,180,0.1,1296.0,1122.04,173.96,UPI,Online
+ORD0216,2024-01-11,Student,Hyderabad,Telangana,Headphones,Accessories,4,3500,0.05,13300.0,9221.56,4078.44,Debit Card,Store
+ORD0217,2024-06-20,Individual,Delhi,Delhi,Pen Set,Stationery,7,250,0.15,1487.5,1134.24,353.26,Cash,Store
+ORD0218,2025-06-17,Corporate,Bengaluru,Karnataka,Notebook,Stationery,3,180,0.0,540.0,425.11,114.89,Cash,Online
+ORD0219,2025-04-01,Student,Delhi,Delhi,Keyboard,Accessories,5,1800,0.0,9000.0,7371.09,1628.91,Net Banking,Store
+ORD0220,2024-10-04,Individual,Surat,Gujarat,Tablet,Electronics,5,22000,0.15,93500.0,83963.82,9536.18,Credit Card,Online
+ORD0221,2024-07-26,Business,Delhi,Delhi,Headphones,Accessories,3,3500,0.0,10500.0,6645.22,3854.78,UPI,Store
+ORD0222,2025-06-23,Individual,Bengaluru,Karnataka,USB Drive,Accessories,4,900,0.15,3060.0,2423.29,636.71,UPI,Store
+ORD0223,2024-07-03,Business,Pune,Maharashtra,Notebook,Stationery,5,180,0.1,810.0,631.87,178.13,Credit Card,Online
+ORD0224,2025-05-21,Corporate,Pune,Maharashtra,Monitor,Electronics,4,16000,0.1,57600.0,47016.82,10583.18,Cash,Online
+ORD0225,2025-01-04,Corporate,Surat,Gujarat,Smartphone,Electronics,4,28000,0.0,112000.0,86494.71,25505.29,UPI,Store
+ORD0226,2025-02-06,Business,Hyderabad,Telangana,Bookshelf,Furniture,6,7000,0.0,42000.0,31882.35,10117.65,Net Banking,Store
+ORD0227,2024-08-19,Corporate,Hyderabad,Telangana,Tablet,Electronics,8,22000,0.05,167200.0,122003.57,45196.43,Credit Card,Online
+ORD0228,2025-04-28,Student,Mumbai,Maharashtra,Smartphone,Electronics,7,28000,0.0,196000.0,137008.21,58991.79,Credit Card,Store
+ORD0229,2025-10-13,Corporate,Mumbai,Maharashtra,USB Drive,Accessories,2,900,0.0,1800.0,1215.15,584.85,UPI,Store
+ORD0230,2024-12-27,Individual,Ahmedabad,Gujarat,Notebook,Stationery,6,180,0.05,1026.0,821.25,204.75,Debit Card,Store
+ORD0231,2024-03-16,Individual,Ahmedabad,Gujarat,Smartphone,Electronics,8,28000,0.05,212800.0,148027.78,64772.22,Cash,Online
+ORD0232,2024-08-21,Student,Bengaluru,Karnataka,Mouse,Accessories,5,1200,0.05,5700.0,4711.23,988.77,Debit Card,Online
+ORD0233,2025-11-10,Corporate,Mumbai,Maharashtra,Tablet,Electronics,5,22000,0.05,104500.0,87816.63,16683.37,Debit Card,Store
+ORD0234,2025-12-13,Student,Jaipur,Rajasthan,Notebook,Stationery,3,180,0.15,459.0,346.25,112.75,UPI,Store
+ORD0235,2024-07-09,Student,Surat,Gujarat,USB Drive,Accessories,2,900,0.05,1710.0,1211.63,498.37,Cash,Online
+ORD0236,2025-01-31,Student,Surat,Gujarat,Mouse,Accessories,6,1200,0.05,6840.0,5482.94,1357.06,Debit Card,Online
+ORD0237,2024-02-06,Individual,Bengaluru,Karnataka,USB Drive,Accessories,2,900,0.15,1530.0,1442.75,87.25,Net Banking,Store
+ORD0238,2025-10-24,Corporate,Bengaluru,Karnataka,Laptop,Electronics,2,55000,0.0,110000.0,82363.39,27636.61,Credit Card,Online
+ORD0239,2024-12-10,Corporate,Ahmedabad,Gujarat,Mouse,Accessories,4,1200,0.05,4560.0,3239.43,1320.57,Cash,Store
+ORD0240,2025-09-14,Business,Mumbai,Maharashtra,Tablet,Electronics,8,22000,0.1,158400.0,113268.0,45132.0,Debit Card,Store
+ORD0241,2024-04-04,Individual,Jaipur,Rajasthan,Laptop,Electronics,7,55000,0.0,385000.0,315489.82,69510.18,Net Banking,Store
+ORD0242,2024-03-13,Student,Delhi,Delhi,Bookshelf,Furniture,3,7000,0.05,19950.0,13335.81,6614.19,UPI,Store
+ORD0243,2025-09-06,Individual,Ahmedabad,Gujarat,Tablet,Electronics,5,22000,0.0,110000.0,70418.17,39581.83,Net Banking,Store
+ORD0244,2024-08-20,Individual,Mumbai,Maharashtra,Headphones,Accessories,1,3500,0.0,3500.0,2223.34,1276.66,Net Banking,Online
+ORD0245,2024-01-17,Business,Jaipur,Rajasthan,Notebook,Stationery,7,180,0.05,1197.0,1009.2,187.8,Debit Card,Store
+ORD0246,2024-03-25,Student,Jaipur,Rajasthan,Pen Set,Stationery,5,250,0.1,1125.0,926.37,198.63,Net Banking,Online
+ORD0247,2024-06-24,Business,Delhi,Delhi,Desk,Furniture,3,12000,0.0,36000.0,24166.69,11833.31,Net Banking,Store
+ORD0248,2025-06-23,Business,Pune,Maharashtra,USB Drive,Accessories,3,900,0.0,2700.0,1972.91,727.09,Net Banking,Online
+ORD0249,2025-07-05,Corporate,Bengaluru,Karnataka,Printer,Office Equipment,1,14000,0.0,14000.0,9029.38,4970.62,Cash,Online
+ORD0250,2025-11-13,Individual,Bengaluru,Karnataka,Desk,Furniture,8,12000,0.0,96000.0,75735.77,20264.23,Debit Card,Store
+ORD0251,2025-06-08,Student,Pune,Maharashtra,Printer,Office Equipment,1,14000,0.15,11900.0,10442.22,1457.78,Debit Card,Online
+ORD0252,2025-07-07,Business,Surat,Gujarat,Desk,Furniture,6,12000,0.0,72000.0,56340.01,15659.99,Net Banking,Store
+ORD0253,2024-06-07,Business,Surat,Gujarat,Monitor,Electronics,2,16000,0.05,30400.0,21322.06,9077.94,Net Banking,Online
+ORD0254,2025-01-09,Student,Surat,Gujarat,Pen Set,Stationery,2,250,0.05,475.0,349.03,125.97,Credit Card,Online
+ORD0255,2024-06-04,Student,Bengaluru,Karnataka,Backpack,Accessories,1,1800,0.1,1620.0,1197.73,422.27,Credit Card,Online
+ORD0256,2025-02-03,Student,Jaipur,Rajasthan,Headphones,Accessories,4,3500,0.0,14000.0,8935.61,5064.39,Cash,Online
+ORD0257,2024-12-30,Individual,Hyderabad,Telangana,Laptop,Electronics,4,55000,0.0,220000.0,165347.21,54652.79,UPI,Store
+ORD0258,2025-06-16,Student,Jaipur,Rajasthan,Monitor,Electronics,8,16000,0.05,121600.0,96196.19,25403.81,UPI,Online
+ORD0259,2025-04-20,Corporate,Delhi,Delhi,Headphones,Accessories,7,3500,0.05,23275.0,15279.2,7995.8,Debit Card,Store
+ORD0260,2025-07-14,Student,Delhi,Delhi,Office Chair,Furniture,5,9000,0.0,45000.0,32003.89,12996.11,Debit Card,Online
+ORD0261,2024-04-03,Corporate,Hyderabad,Telangana,Headphones,Accessories,8,3500,0.1,25200.0,22434.34,2765.66,Debit Card,Online
+ORD0262,2025-06-18,Corporate,Surat,Gujarat,Keyboard,Accessories,2,1800,0.0,3600.0,2334.76,1265.24,Cash,Store
+ORD0263,2025-05-10,Individual,Surat,Gujarat,USB Drive,Accessories,5,900,0.1,4050.0,2917.13,1132.87,Credit Card,Online
+ORD0264,2025-11-17,Corporate,Jaipur,Rajasthan,Office Chair,Furniture,4,9000,0.1,32400.0,24687.97,7712.03,Debit Card,Store
+ORD0265,2024-03-31,Corporate,Mumbai,Maharashtra,Office Chair,Furniture,1,9000,0.0,9000.0,6485.52,2514.48,Credit Card,Online
+ORD0266,2024-12-12,Corporate,Ahmedabad,Gujarat,Backpack,Accessories,8,1800,0.15,12240.0,11697.5,542.5,Cash,Store
+ORD0267,2024-07-03,Individual,Ahmedabad,Gujarat,Bookshelf,Furniture,6,7000,0.0,42000.0,29661.01,12338.99,Debit Card,Store
+ORD0268,2024-07-27,Individual,Bengaluru,Karnataka,Pen Set,Stationery,2,250,0.15,425.0,403.11,21.89,Cash,Store
+ORD0269,2025-11-07,Business,Pune,Maharashtra,Printer,Office Equipment,1,14000,0.05,13300.0,10671.94,2628.06,Credit Card,Store
+ORD0270,2024-04-25,Individual,Bengaluru,Karnataka,Bookshelf,Furniture,6,7000,0.05,39900.0,26903.87,12996.13,UPI,Online
+ORD0271,2024-08-04,Business,Bengaluru,Karnataka,Bookshelf,Furniture,4,7000,0.15,23800.0,18630.62,5169.38,Credit Card,Online
+ORD0272,2025-11-12,Business,Bengaluru,Karnataka,Desk,Furniture,8,12000,0.0,96000.0,62052.01,33947.99,Debit Card,Store
+ORD0273,2024-03-23,Corporate,Delhi,Delhi,Headphones,Accessories,6,3500,0.1,18900.0,15935.09,2964.91,Cash,Online
+ORD0274,2024-12-23,Business,Mumbai,Maharashtra,Keyboard,Accessories,4,1800,0.1,6480.0,5784.19,695.81,Debit Card,Online
+ORD0275,2025-04-25,Student,Mumbai,Maharashtra,Notebook,Stationery,1,180,0.1,162.0,119.49,42.51,Net Banking,Store
+ORD0276,2024-07-06,Individual,Surat,Gujarat,Pen Set,Stationery,5,250,0.0,1250.0,956.95,293.05,Cash,Store
+ORD0277,2025-11-01,Individual,Bengaluru,Karnataka,USB Drive,Accessories,2,900,0.05,1710.0,1149.59,560.41,Net Banking,Store
+ORD0278,2025-09-11,Corporate,Delhi,Delhi,Tablet,Electronics,3,22000,0.1,59400.0,49559.71,9840.29,Net Banking,Online
+ORD0279,2024-11-26,Business,Hyderabad,Telangana,Desk,Furniture,6,12000,0.0,72000.0,52435.6,19564.4,Debit Card,Online
+ORD0280,2025-10-13,Business,Surat,Gujarat,Backpack,Accessories,5,1800,0.0,9000.0,5733.52,3266.48,Debit Card,Store
+ORD0281,2024-05-15,Student,Jaipur,Rajasthan,Headphones,Accessories,4,3500,0.1,12600.0,10009.61,2590.39,Cash,Store
+ORD0282,2025-01-29,Individual,Pune,Maharashtra,Laptop,Electronics,5,55000,0.15,233750.0,223169.55,10580.45,UPI,Store
+ORD0283,2025-12-30,Individual,Pune,Maharashtra,Pen Set,Stationery,8,250,0.15,1700.0,1452.21,247.79,Net Banking,Store
+ORD0284,2025-12-20,Business,Ahmedabad,Gujarat,Monitor,Electronics,1,16000,0.0,16000.0,12150.23,3849.77,Net Banking,Online
+ORD0285,2024-02-20,Individual,Ahmedabad,Gujarat,Pen Set,Stationery,1,250,0.05,237.5,185.32,52.18,UPI,Store
+ORD0286,2025-04-30,Individual,Pune,Maharashtra,Backpack,Accessories,1,1800,0.1,1620.0,1458.08,161.92,Cash,Store
+ORD0287,2024-10-25,Business,Hyderabad,Telangana,Monitor,Electronics,4,16000,0.0,64000.0,40824.64,23175.36,Net Banking,Store
+ORD0288,2025-06-22,Student,Hyderabad,Telangana,Mouse,Accessories,1,1200,0.05,1140.0,877.24,262.76,Cash,Store
+ORD0289,2025-12-08,Student,Hyderabad,Telangana,Tablet,Electronics,1,22000,0.0,22000.0,16703.09,5296.91,Credit Card,Store
+ORD0290,2024-07-23,Individual,Pune,Maharashtra,Keyboard,Accessories,8,1800,0.05,13680.0,9704.8,3975.2,Credit Card,Online
+ORD0291,2025-11-11,Business,Jaipur,Rajasthan,USB Drive,Accessories,1,900,0.0,900.0,645.1,254.9,Cash,Store
+ORD0292,2024-02-21,Business,Ahmedabad,Gujarat,Smartphone,Electronics,8,28000,0.1,201600.0,139816.96,61783.04,UPI,Store
+ORD0293,2025-01-21,Individual,Mumbai,Maharashtra,Smartphone,Electronics,8,28000,0.15,190400.0,180634.01,9765.99,Cash,Store
+ORD0294,2025-09-11,Student,Jaipur,Rajasthan,Mouse,Accessories,7,1200,0.15,7140.0,6809.01,330.99,Net Banking,Store
+ORD0295,2024-06-28,Student,Ahmedabad,Gujarat,Office Chair,Furniture,8,9000,0.0,72000.0,56900.63,15099.37,Net Banking,Store
+ORD0296,2024-03-15,Individual,Delhi,Delhi,Bookshelf,Furniture,5,7000,0.05,33250.0,27049.46,6200.54,UPI,Store
+ORD0297,2025-08-20,Student,Delhi,Delhi,Tablet,Electronics,5,22000,0.0,110000.0,81171.46,28828.54,Debit Card,Online
+ORD0298,2024-02-28,Individual,Pune,Maharashtra,Monitor,Electronics,7,16000,0.0,112000.0,86206.44,25793.56,Credit Card,Store
+ORD0299,2025-08-02,Business,Bengaluru,Karnataka,Pen Set,Stationery,1,250,0.0,250.0,179.79,70.21,UPI,Online
+ORD0300,2024-03-23,Business,Jaipur,Rajasthan,Laptop,Electronics,6,55000,0.1,297000.0,258443.66,38556.34,UPI,Store
+ORD0301,2024-12-09,Individual,Ahmedabad,Gujarat,Notebook,Stationery,4,180,0.05,684.0,463.64,220.36,Net Banking,Online
+ORD0302,2025-05-23,Business,Surat,Gujarat,Keyboard,Accessories,4,1800,0.0,7200.0,5366.14,1833.86,Debit Card,Store
+ORD0303,2024-03-26,Business,Bengaluru,Karnataka,Laptop,Electronics,8,55000,0.15,374000.0,338314.15,35685.85,Net Banking,Store
+ORD0304,2025-04-07,Student,Bengaluru,Karnataka,USB Drive,Accessories,8,900,0.15,6120.0,5893.37,226.63,Credit Card,Store
+ORD0305,2025-05-22,Business,Mumbai,Maharashtra,Pen Set,Stationery,5,250,0.05,1187.5,837.84,349.66,Credit Card,Store
+ORD0306,2025-07-18,Student,Pune,Maharashtra,Headphones,Accessories,4,3500,0.05,13300.0,9157.49,4142.51,Cash,Store
+ORD0307,2025-01-04,Student,Jaipur,Rajasthan,Monitor,Electronics,1,16000,0.1,14400.0,12681.78,1718.22,Cash,Online
+ORD0308,2025-09-26,Individual,Hyderabad,Telangana,Desk,Furniture,6,12000,0.1,64800.0,47501.59,17298.41,UPI,Store
+ORD0309,2025-09-26,Corporate,Jaipur,Rajasthan,Keyboard,Accessories,6,1800,0.1,9720.0,8538.57,1181.43,Debit Card,Online
+ORD0310,2024-02-12,Individual,Bengaluru,Karnataka,Desk,Furniture,1,12000,0.0,12000.0,8737.06,3262.94,UPI,Store
+ORD0311,2025-06-05,Student,Hyderabad,Telangana,Keyboard,Accessories,6,1800,0.15,9180.0,8385.69,794.31,Credit Card,Online
+ORD0312,2025-02-26,Individual,Bengaluru,Karnataka,Bookshelf,Furniture,6,7000,0.0,42000.0,32929.48,9070.52,Net Banking,Store
+ORD0313,2025-04-18,Student,Surat,Gujarat,Keyboard,Accessories,2,1800,0.0,3600.0,2651.74,948.26,Cash,Online
+ORD0314,2025-06-30,Corporate,Surat,Gujarat,Laptop,Electronics,8,55000,0.1,396000.0,339569.56,56430.44,Net Banking,Online
+ORD0315,2025-02-04,Individual,Bengaluru,Karnataka,Monitor,Electronics,3,16000,0.0,48000.0,30342.73,17657.27,Net Banking,Online
+ORD0316,2025-05-07,Business,Surat,Gujarat,Monitor,Electronics,6,16000,0.0,96000.0,64193.65,31806.35,Cash,Online
+ORD0317,2025-03-27,Corporate,Jaipur,Rajasthan,Notebook,Stationery,1,180,0.0,180.0,133.47,46.53,Debit Card,Store
+ORD0318,2024-10-11,Student,Hyderabad,Telangana,Backpack,Accessories,3,1800,0.0,5400.0,3976.4,1423.6,Cash,Store
+ORD0319,2025-03-09,Individual,Delhi,Delhi,Mouse,Accessories,6,1200,0.1,6480.0,4835.61,1644.39,Credit Card,Store
+ORD0320,2025-01-15,Individual,Ahmedabad,Gujarat,Mouse,Accessories,5,1200,0.0,6000.0,4102.33,1897.67,UPI,Store
+ORD0321,2024-12-20,Student,Bengaluru,Karnataka,Bookshelf,Furniture,3,7000,0.1,18900.0,15692.15,3207.85,Net Banking,Store
+ORD0322,2024-07-28,Student,Mumbai,Maharashtra,Office Chair,Furniture,8,9000,0.05,68400.0,49499.17,18900.83,UPI,Store
+ORD0323,2025-10-19,Student,Mumbai,Maharashtra,Bookshelf,Furniture,5,7000,0.15,29750.0,28609.83,1140.17,Net Banking,Online
+ORD0324,2024-01-22,Individual,Surat,Gujarat,Smartphone,Electronics,2,28000,0.0,56000.0,44161.59,11838.41,Cash,Store
+ORD0325,2024-06-16,Individual,Hyderabad,Telangana,Bookshelf,Furniture,2,7000,0.0,14000.0,9071.6,4928.4,Net Banking,Online
+ORD0326,2025-04-25,Individual,Delhi,Delhi,Tablet,Electronics,2,22000,0.05,41800.0,28552.16,13247.84,Net Banking,Store
+ORD0327,2024-07-21,Student,Pune,Maharashtra,Headphones,Accessories,2,3500,0.15,5950.0,5641.43,308.57,Debit Card,Store
+ORD0328,2024-10-03,Student,Hyderabad,Telangana,Monitor,Electronics,7,16000,0.0,112000.0,82186.96,29813.04,Credit Card,Online
+ORD0329,2025-12-31,Business,Bengaluru,Karnataka,Smartphone,Electronics,8,28000,0.0,224000.0,157492.04,66507.96,Credit Card,Online
+ORD0330,2025-11-26,Business,Delhi,Delhi,Smartphone,Electronics,6,28000,0.05,159600.0,125056.16,34543.84,UPI,Store
+ORD0331,2025-03-21,Individual,Bengaluru,Karnataka,Printer,Office Equipment,3,14000,0.15,35700.0,31874.14,3825.86,UPI,Store
+ORD0332,2024-03-20,Individual,Jaipur,Rajasthan,Tablet,Electronics,8,22000,0.05,167200.0,135797.71,31402.29,Credit Card,Store
+ORD0333,2024-08-06,Corporate,Ahmedabad,Gujarat,Printer,Office Equipment,7,14000,0.0,98000.0,75132.53,22867.47,Credit Card,Store
+ORD0334,2025-04-14,Individual,Ahmedabad,Gujarat,Keyboard,Accessories,7,1800,0.1,11340.0,9265.38,2074.62,UPI,Store
+ORD0335,2025-05-01,Corporate,Ahmedabad,Gujarat,Smartphone,Electronics,1,28000,0.15,23800.0,21766.19,2033.81,Cash,Store
+ORD0336,2024-12-05,Individual,Pune,Maharashtra,Tablet,Electronics,7,22000,0.0,154000.0,111139.37,42860.63,Net Banking,Online
+ORD0337,2024-06-05,Business,Delhi,Delhi,Printer,Office Equipment,2,14000,0.15,23800.0,20276.99,3523.01,Cash,Store
+ORD0338,2024-11-17,Business,Mumbai,Maharashtra,Desk,Furniture,3,12000,0.0,36000.0,23831.64,12168.36,UPI,Online
+ORD0339,2025-07-25,Corporate,Hyderabad,Telangana,Desk,Furniture,1,12000,0.0,12000.0,9423.79,2576.21,Debit Card,Online
+ORD0340,2024-09-24,Individual,Ahmedabad,Gujarat,Headphones,Accessories,2,3500,0.0,7000.0,4457.43,2542.57,Credit Card,Store
+ORD0341,2025-11-18,Corporate,Surat,Gujarat,Mouse,Accessories,8,1200,0.05,9120.0,7123.36,1996.64,Net Banking,Online
+ORD0342,2025-07-24,Student,Pune,Maharashtra,Headphones,Accessories,8,3500,0.1,25200.0,18671.3,6528.7,Credit Card,Online
+ORD0343,2024-07-20,Business,Pune,Maharashtra,Headphones,Accessories,8,3500,0.0,28000.0,20160.14,7839.86,Net Banking,Online
+ORD0344,2024-08-12,Corporate,Hyderabad,Telangana,Bookshelf,Furniture,7,7000,0.05,46550.0,39080.04,7469.96,Debit Card,Online
+ORD0345,2025-03-22,Corporate,Mumbai,Maharashtra,Mouse,Accessories,4,1200,0.15,4080.0,3443.11,636.89,Credit Card,Online
+ORD0346,2024-08-08,Individual,Jaipur,Rajasthan,Tablet,Electronics,1,22000,0.0,22000.0,14618.03,7381.97,Debit Card,Store
+ORD0347,2024-10-03,Student,Delhi,Delhi,USB Drive,Accessories,7,900,0.1,5670.0,5062.83,607.17,Cash,Online
+ORD0348,2025-01-09,Student,Mumbai,Maharashtra,Monitor,Electronics,4,16000,0.05,60800.0,50574.66,10225.34,Debit Card,Store
+ORD0349,2024-08-31,Student,Jaipur,Rajasthan,Bookshelf,Furniture,4,7000,0.05,26600.0,21060.81,5539.19,Credit Card,Store
+ORD0350,2025-10-22,Student,Delhi,Delhi,Tablet,Electronics,3,22000,0.0,66000.0,45171.29,20828.71,Net Banking,Online
+ORD0351,2025-09-29,Business,Delhi,Delhi,Backpack,Accessories,7,1800,0.1,11340.0,7972.75,3367.25,Net Banking,Store
+ORD0352,2024-12-28,Student,Mumbai,Maharashtra,Laptop,Electronics,3,55000,0.0,165000.0,119830.87,45169.13,Credit Card,Store
+ORD0353,2025-08-25,Individual,Bengaluru,Karnataka,Headphones,Accessories,1,3500,0.05,3325.0,2558.73,766.27,Cash,Store
+ORD0354,2024-08-03,Business,Ahmedabad,Gujarat,Pen Set,Stationery,2,250,0.05,475.0,385.36,89.64,Credit Card,Online
+ORD0355,2025-12-10,Individual,Pune,Maharashtra,Bookshelf,Furniture,1,7000,0.0,7000.0,5591.8,1408.2,Cash,Store
+ORD0356,2025-08-25,Individual,Mumbai,Maharashtra,Pen Set,Stationery,3,250,0.15,637.5,562.68,74.82,UPI,Online
+ORD0357,2024-07-17,Corporate,Pune,Maharashtra,Smartphone,Electronics,6,28000,0.1,151200.0,129280.78,21919.22,Credit Card,Store
+ORD0358,2024-02-14,Business,Mumbai,Maharashtra,Smartphone,Electronics,8,28000,0.0,224000.0,143685.35,80314.65,Cash,Store
+ORD0359,2024-12-09,Individual,Hyderabad,Telangana,Backpack,Accessories,6,1800,0.0,10800.0,7513.47,3286.53,Cash,Online
+ORD0360,2025-06-26,Student,Delhi,Delhi,Keyboard,Accessories,5,1800,0.1,8100.0,6282.83,1817.17,Debit Card,Store
+ORD0361,2024-05-07,Business,Surat,Gujarat,Monitor,Electronics,6,16000,0.0,96000.0,78007.83,17992.17,Cash,Store
+ORD0362,2024-10-01,Corporate,Pune,Maharashtra,Notebook,Stationery,8,180,0.15,1224.0,1008.79,215.21,Net Banking,Online
+ORD0363,2025-10-17,Student,Ahmedabad,Gujarat,Monitor,Electronics,6,16000,0.0,96000.0,73298.64,22701.36,Cash,Online
+ORD0364,2025-08-14,Corporate,Pune,Maharashtra,Tablet,Electronics,2,22000,0.0,44000.0,30255.86,13744.14,UPI,Store
+ORD0365,2025-07-25,Individual,Mumbai,Maharashtra,Notebook,Stationery,1,180,0.15,153.0,144.68,8.32,Cash,Store
+ORD0366,2024-08-13,Corporate,Bengaluru,Karnataka,Mouse,Accessories,3,1200,0.0,3600.0,2666.77,933.23,Cash,Store
+ORD0367,2024-07-11,Student,Hyderabad,Telangana,Smartphone,Electronics,2,28000,0.0,56000.0,45715.01,10284.99,Net Banking,Online
+ORD0368,2024-01-11,Corporate,Jaipur,Rajasthan,Monitor,Electronics,3,16000,0.1,43200.0,32296.47,10903.53,Debit Card,Store
+ORD0369,2024-02-27,Business,Jaipur,Rajasthan,Headphones,Accessories,4,3500,0.05,13300.0,11217.57,2082.43,Cash,Store
+ORD0370,2024-02-27,Student,Surat,Gujarat,Notebook,Stationery,5,180,0.05,855.0,727.02,127.98,Net Banking,Store
+ORD0371,2025-10-29,Business,Delhi,Delhi,Desk,Furniture,1,12000,0.05,11400.0,8874.22,2525.78,Cash,Online
+ORD0372,2025-10-14,Corporate,Delhi,Delhi,Monitor,Electronics,8,16000,0.15,108800.0,88847.59,19952.41,UPI,Online
+ORD0373,2025-03-20,Individual,Jaipur,Rajasthan,Tablet,Electronics,2,22000,0.1,39600.0,30307.94,9292.06,UPI,Store
+ORD0374,2025-07-11,Individual,Surat,Gujarat,Desk,Furniture,6,12000,0.15,61200.0,51433.48,9766.52,Net Banking,Online
+ORD0375,2024-04-25,Individual,Mumbai,Maharashtra,Smartphone,Electronics,5,28000,0.0,140000.0,87528.33,52471.67,UPI,Store
+ORD0376,2025-10-06,Business,Bengaluru,Karnataka,Office Chair,Furniture,6,9000,0.0,54000.0,41992.19,12007.81,UPI,Online
+ORD0377,2024-05-01,Individual,Delhi,Delhi,Pen Set,Stationery,2,250,0.05,475.0,357.51,117.49,Cash,Store
+ORD0378,2024-02-09,Business,Pune,Maharashtra,Laptop,Electronics,1,55000,0.0,55000.0,41347.26,13652.74,Debit Card,Store
+ORD0379,2025-01-04,Student,Bengaluru,Karnataka,Backpack,Accessories,2,1800,0.0,3600.0,2459.89,1140.11,UPI,Online
+ORD0380,2025-04-10,Corporate,Surat,Gujarat,Tablet,Electronics,4,22000,0.1,79200.0,58478.23,20721.77,Net Banking,Online
+ORD0381,2025-08-17,Individual,Delhi,Delhi,Smartphone,Electronics,4,28000,0.0,112000.0,81996.3,30003.7,UPI,Store
+ORD0382,2024-11-09,Corporate,Mumbai,Maharashtra,Monitor,Electronics,3,16000,0.0,48000.0,31541.11,16458.89,Debit Card,Online
+ORD0383,2025-05-29,Individual,Mumbai,Maharashtra,Mouse,Accessories,1,1200,0.0,1200.0,904.27,295.73,Debit Card,Store
+ORD0384,2024-05-21,Business,Mumbai,Maharashtra,Mouse,Accessories,1,1200,0.05,1140.0,860.92,279.08,Credit Card,Online
+ORD0385,2024-06-17,Business,Mumbai,Maharashtra,USB Drive,Accessories,6,900,0.0,5400.0,4402.75,997.25,Credit Card,Online
+ORD0386,2024-11-17,Student,Surat,Gujarat,Desk,Furniture,5,12000,0.15,51000.0,45851.03,5148.97,Debit Card,Store
+ORD0387,2025-03-30,Corporate,Hyderabad,Telangana,Headphones,Accessories,6,3500,0.05,19950.0,15177.74,4772.26,Debit Card,Store
+ORD0388,2024-10-04,Corporate,Jaipur,Rajasthan,Office Chair,Furniture,1,9000,0.15,7650.0,6053.56,1596.44,Cash,Store
+ORD0389,2024-03-13,Student,Surat,Gujarat,Backpack,Accessories,4,1800,0.1,6480.0,5714.14,765.86,UPI,Store
+ORD0390,2025-09-01,Individual,Hyderabad,Telangana,Office Chair,Furniture,4,9000,0.1,32400.0,28771.92,3628.08,Cash,Store
+ORD0391,2024-11-20,Corporate,Delhi,Delhi,Smartphone,Electronics,8,28000,0.05,212800.0,147619.67,65180.33,Net Banking,Online
+ORD0392,2025-08-11,Business,Delhi,Delhi,Backpack,Accessories,5,1800,0.0,9000.0,5889.79,3110.21,Net Banking,Online
+ORD0393,2024-02-19,Individual,Mumbai,Maharashtra,Monitor,Electronics,2,16000,0.05,30400.0,26235.9,4164.1,Net Banking,Online
+ORD0394,2025-03-14,Student,Pune,Maharashtra,Pen Set,Stationery,2,250,0.1,450.0,406.19,43.81,Cash,Online
+ORD0395,2025-10-17,Corporate,Bengaluru,Karnataka,Office Chair,Furniture,8,9000,0.0,72000.0,48435.91,23564.09,Debit Card,Store
+ORD0396,2024-06-17,Student,Hyderabad,Telangana,Keyboard,Accessories,1,1800,0.0,1800.0,1458.16,341.84,Debit Card,Store
+ORD0397,2024-09-08,Business,Delhi,Delhi,Mouse,Accessories,6,1200,0.05,6840.0,5857.08,982.92,Credit Card,Store
+ORD0398,2024-07-15,Student,Pune,Maharashtra,Monitor,Electronics,8,16000,0.1,115200.0,99468.4,15731.6,Net Banking,Store
+ORD0399,2025-04-11,Student,Delhi,Delhi,Mouse,Accessories,2,1200,0.05,2280.0,1673.08,606.92,Cash,Store
+ORD0400,2025-11-01,Business,Pune,Maharashtra,Backpack,Accessories,1,1800,0.1,1620.0,1225.82,394.18,Credit Card,Store
+ORD0401,2025-10-17,Student,Surat,Gujarat,Pen Set,Stationery,4,250,0.1,900.0,770.55,129.45,Credit Card,Online
+ORD0402,2024-11-24,Business,Jaipur,Rajasthan,Desk,Furniture,2,12000,0.05,22800.0,16755.75,6044.25,Cash,Online
+ORD0403,2025-09-03,Individual,Ahmedabad,Gujarat,Office Chair,Furniture,2,9000,0.0,18000.0,12394.15,5605.85,Cash,Online
+ORD0404,2024-03-22,Individual,Ahmedabad,Gujarat,Notebook,Stationery,2,180,0.0,360.0,233.21,126.79,Debit Card,Online
+ORD0405,2025-01-12,Individual,Jaipur,Rajasthan,Monitor,Electronics,2,16000,0.0,32000.0,21242.59,10757.41,Net Banking,Store
+ORD0406,2025-08-25,Student,Pune,Maharashtra,Office Chair,Furniture,3,9000,0.15,22950.0,17078.66,5871.34,Net Banking,Online
+ORD0407,2024-07-01,Corporate,Jaipur,Rajasthan,Monitor,Electronics,3,16000,0.05,45600.0,36351.69,9248.31,Credit Card,Store
+ORD0408,2024-09-21,Individual,Hyderabad,Telangana,Notebook,Stationery,5,180,0.0,900.0,581.73,318.27,Cash,Online
+ORD0409,2025-02-22,Business,Jaipur,Rajasthan,Mouse,Accessories,3,1200,0.0,3600.0,2238.19,1361.81,Debit Card,Store
+ORD0410,2025-10-16,Student,Pune,Maharashtra,Keyboard,Accessories,5,1800,0.1,8100.0,6443.8,1656.2,Credit Card,Online
+ORD0411,2025-07-11,Individual,Surat,Gujarat,Headphones,Accessories,4,3500,0.15,11900.0,8930.94,2969.06,Net Banking,Store
+ORD0412,2025-01-23,Corporate,Hyderabad,Telangana,Tablet,Electronics,2,22000,0.05,41800.0,30860.72,10939.28,Net Banking,Store
+ORD0413,2024-04-20,Student,Jaipur,Rajasthan,Bookshelf,Furniture,7,7000,0.1,44100.0,34789.18,9310.82,Debit Card,Online
+ORD0414,2025-11-16,Corporate,Hyderabad,Telangana,Desk,Furniture,6,12000,0.0,72000.0,55955.92,16044.08,Net Banking,Store
+ORD0415,2024-04-13,Individual,Delhi,Delhi,Pen Set,Stationery,8,250,0.05,1900.0,1345.46,554.54,Credit Card,Online
+ORD0416,2025-07-26,Business,Bengaluru,Karnataka,Office Chair,Furniture,5,9000,0.15,38250.0,32086.23,6163.77,Debit Card,Online
+ORD0417,2024-01-06,Corporate,Pune,Maharashtra,Laptop,Electronics,6,55000,0.0,330000.0,246147.21,83852.79,UPI,Online
+ORD0418,2025-04-07,Business,Hyderabad,Telangana,USB Drive,Accessories,8,900,0.15,6120.0,5087.31,1032.69,Debit Card,Online
+ORD0419,2025-06-04,Business,Surat,Gujarat,Backpack,Accessories,5,1800,0.15,7650.0,6941.46,708.54,Debit Card,Online
+ORD0420,2024-10-11,Business,Surat,Gujarat,Monitor,Electronics,5,16000,0.0,80000.0,52730.78,27269.22,UPI,Online
+ORD0421,2024-01-19,Business,Bengaluru,Karnataka,Pen Set,Stationery,1,250,0.05,237.5,168.21,69.29,Cash,Online
+ORD0422,2024-05-04,Corporate,Surat,Gujarat,Keyboard,Accessories,1,1800,0.1,1620.0,1171.98,448.02,Credit Card,Online
+ORD0423,2024-04-25,Business,Bengaluru,Karnataka,USB Drive,Accessories,1,900,0.1,810.0,668.62,141.38,Debit Card,Store
+ORD0424,2025-05-26,Corporate,Jaipur,Rajasthan,Smartphone,Electronics,2,28000,0.05,53200.0,41236.8,11963.2,UPI,Store
+ORD0425,2024-05-22,Corporate,Delhi,Delhi,Keyboard,Accessories,5,1800,0.0,9000.0,5615.21,3384.79,UPI,Online
+ORD0426,2024-12-22,Student,Surat,Gujarat,Headphones,Accessories,8,3500,0.0,28000.0,20317.31,7682.69,Debit Card,Store
+ORD0427,2024-02-17,Business,Delhi,Delhi,Printer,Office Equipment,6,14000,0.05,79800.0,53647.56,26152.44,Net Banking,Store
+ORD0428,2024-05-02,Corporate,Surat,Gujarat,Smartphone,Electronics,5,28000,0.05,133000.0,113303.18,19696.82,Debit Card,Store
+ORD0429,2024-02-24,Corporate,Delhi,Delhi,Keyboard,Accessories,2,1800,0.05,3420.0,2886.92,533.08,Net Banking,Store
+ORD0430,2024-12-23,Corporate,Mumbai,Maharashtra,Mouse,Accessories,7,1200,0.0,8400.0,5479.12,2920.88,UPI,Online
+ORD0431,2024-11-06,Corporate,Surat,Gujarat,Headphones,Accessories,2,3500,0.05,6650.0,4357.58,2292.42,Net Banking,Online
+ORD0432,2025-03-25,Student,Delhi,Delhi,Office Chair,Furniture,4,9000,0.15,30600.0,23556.74,7043.26,Cash,Store
+ORD0433,2024-10-10,Student,Pune,Maharashtra,Mouse,Accessories,7,1200,0.0,8400.0,5670.67,2729.33,Net Banking,Store
+ORD0434,2024-08-19,Corporate,Ahmedabad,Gujarat,Mouse,Accessories,2,1200,0.0,2400.0,1792.03,607.97,Debit Card,Store
+ORD0435,2024-09-04,Business,Mumbai,Maharashtra,Tablet,Electronics,1,22000,0.05,20900.0,17909.34,2990.66,UPI,Store
+ORD0436,2024-10-18,Individual,Bengaluru,Karnataka,Notebook,Stationery,8,180,0.1,1296.0,921.89,374.11,Cash,Online
+ORD0437,2025-01-15,Individual,Pune,Maharashtra,Monitor,Electronics,6,16000,0.0,96000.0,69986.47,26013.53,Debit Card,Store
+ORD0438,2025-12-09,Corporate,Hyderabad,Telangana,Keyboard,Accessories,4,1800,0.1,6480.0,4913.39,1566.61,Credit Card,Online
+ORD0439,2025-11-26,Business,Mumbai,Maharashtra,USB Drive,Accessories,3,900,0.0,2700.0,1738.55,961.45,Net Banking,Store
+ORD0440,2025-05-26,Business,Pune,Maharashtra,Bookshelf,Furniture,1,7000,0.0,7000.0,4504.51,2495.49,Credit Card,Store
+ORD0441,2025-01-01,Individual,Jaipur,Rajasthan,Tablet,Electronics,1,22000,0.0,22000.0,17800.5,4199.5,Cash,Online
+ORD0442,2024-09-02,Corporate,Delhi,Delhi,Laptop,Electronics,7,55000,0.05,365750.0,240783.43,124966.57,Credit Card,Store
+ORD0443,2025-12-12,Corporate,Jaipur,Rajasthan,Tablet,Electronics,3,22000,0.05,62700.0,50715.7,11984.3,UPI,Store
+ORD0444,2025-12-18,Student,Mumbai,Maharashtra,Headphones,Accessories,4,3500,0.1,12600.0,8921.37,3678.63,Debit Card,Online
+ORD0445,2024-09-11,Individual,Pune,Maharashtra,Smartphone,Electronics,7,28000,0.1,176400.0,122638.85,53761.15,Cash,Online
+ORD0446,2025-08-21,Student,Hyderabad,Telangana,Bookshelf,Furniture,1,7000,0.1,6300.0,4530.31,1769.69,UPI,Store
+ORD0447,2025-08-27,Business,Jaipur,Rajasthan,Laptop,Electronics,7,55000,0.15,327250.0,289080.67,38169.33,Debit Card,Store
+ORD0448,2024-11-14,Student,Jaipur,Rajasthan,Monitor,Electronics,7,16000,0.0,112000.0,80957.51,31042.49,Cash,Online
+ORD0449,2025-01-01,Corporate,Ahmedabad,Gujarat,Office Chair,Furniture,7,9000,0.05,59850.0,44543.43,15306.57,Net Banking,Online
+ORD0450,2024-07-29,Individual,Hyderabad,Telangana,Office Chair,Furniture,1,9000,0.1,8100.0,7092.42,1007.58,Credit Card,Online
+ORD0451,2025-12-13,Individual,Surat,Gujarat,Bookshelf,Furniture,2,7000,0.0,14000.0,9402.56,4597.44,Cash,Store
+ORD0452,2024-03-10,Corporate,Hyderabad,Telangana,Headphones,Accessories,2,3500,0.0,7000.0,4479.1,2520.9,UPI,Store
+ORD0453,2024-12-02,Corporate,Ahmedabad,Gujarat,Laptop,Electronics,8,55000,0.15,374000.0,339805.49,34194.51,Net Banking,Online
+ORD0454,2024-07-02,Student,Surat,Gujarat,Pen Set,Stationery,8,250,0.0,2000.0,1346.01,653.99,Net Banking,Store
+ORD0455,2024-05-23,Student,Delhi,Delhi,Mouse,Accessories,4,1200,0.15,4080.0,3436.9,643.1,Net Banking,Online
+ORD0456,2024-07-12,Individual,Bengaluru,Karnataka,Notebook,Stationery,6,180,0.0,1080.0,815.33,264.67,Debit Card,Online
+ORD0457,2025-03-15,Business,Bengaluru,Karnataka,Mouse,Accessories,5,1200,0.05,5700.0,3876.92,1823.08,UPI,Online
+ORD0458,2025-04-23,Student,Ahmedabad,Gujarat,Printer,Office Equipment,7,14000,0.0,98000.0,73970.39,24029.61,Credit Card,Store
+ORD0459,2024-07-22,Business,Mumbai,Maharashtra,Notebook,Stationery,4,180,0.0,720.0,462.77,257.23,UPI,Store
+ORD0460,2024-02-25,Corporate,Surat,Gujarat,Headphones,Accessories,2,3500,0.05,6650.0,5552.13,1097.87,UPI,Store
+ORD0461,2024-09-18,Corporate,Bengaluru,Karnataka,Pen Set,Stationery,1,250,0.1,225.0,155.45,69.55,UPI,Store
+ORD0462,2024-09-25,Student,Hyderabad,Telangana,Backpack,Accessories,8,1800,0.0,14400.0,9893.19,4506.81,Debit Card,Store
+ORD0463,2024-06-01,Student,Bengaluru,Karnataka,Notebook,Stationery,6,180,0.05,1026.0,673.71,352.29,Cash,Store
+ORD0464,2024-02-17,Individual,Surat,Gujarat,Mouse,Accessories,3,1200,0.1,3240.0,2418.3,821.7,Credit Card,Online
+ORD0465,2024-01-14,Corporate,Delhi,Delhi,Mouse,Accessories,7,1200,0.15,7140.0,6192.37,947.63,UPI,Online
+ORD0466,2025-02-27,Individual,Hyderabad,Telangana,Office Chair,Furniture,6,9000,0.1,48600.0,39801.81,8798.19,UPI,Store
+ORD0467,2024-03-27,Corporate,Mumbai,Maharashtra,Notebook,Stationery,1,180,0.0,180.0,126.21,53.79,Net Banking,Online
+ORD0468,2024-02-07,Corporate,Ahmedabad,Gujarat,USB Drive,Accessories,6,900,0.1,4860.0,3416.1,1443.9,Net Banking,Online
+ORD0469,2025-03-14,Individual,Ahmedabad,Gujarat,Laptop,Electronics,4,55000,0.15,187000.0,175095.47,11904.53,Cash,Online
+ORD0470,2024-11-10,Business,Pune,Maharashtra,Keyboard,Accessories,2,1800,0.0,3600.0,2748.46,851.54,Cash,Store
+ORD0471,2025-08-13,Student,Hyderabad,Telangana,Monitor,Electronics,5,16000,0.0,80000.0,61877.85,18122.15,Credit Card,Store
+ORD0472,2024-01-27,Corporate,Bengaluru,Karnataka,Bookshelf,Furniture,5,7000,0.1,31500.0,28631.03,2868.97,UPI,Store
+ORD0473,2024-08-18,Corporate,Bengaluru,Karnataka,Tablet,Electronics,2,22000,0.0,44000.0,34873.52,9126.48,Net Banking,Store
+ORD0474,2025-04-12,Individual,Bengaluru,Karnataka,Laptop,Electronics,7,55000,0.15,327250.0,311300.52,15949.48,Cash,Store
+ORD0475,2025-01-10,Business,Delhi,Delhi,Monitor,Electronics,2,16000,0.05,30400.0,25168.33,5231.67,Net Banking,Online
+ORD0476,2024-03-15,Student,Bengaluru,Karnataka,Tablet,Electronics,2,22000,0.05,41800.0,34055.04,7744.96,Cash,Online
+ORD0477,2024-05-30,Student,Surat,Gujarat,Printer,Office Equipment,2,14000,0.05,26600.0,18305.32,8294.68,Net Banking,Online
+ORD0478,2024-08-09,Student,Hyderabad,Telangana,Backpack,Accessories,3,1800,0.0,5400.0,4025.67,1374.33,Cash,Online
+ORD0479,2024-10-26,Student,Jaipur,Rajasthan,Smartphone,Electronics,3,28000,0.0,84000.0,61754.86,22245.14,Net Banking,Store
+ORD0480,2024-01-24,Corporate,Surat,Gujarat,USB Drive,Accessories,3,900,0.0,2700.0,1999.0,701.0,Credit Card,Online
+ORD0481,2025-01-20,Business,Bengaluru,Karnataka,Desk,Furniture,4,12000,0.0,48000.0,32951.72,15048.28,Cash,Online
+ORD0482,2025-08-06,Corporate,Pune,Maharashtra,Desk,Furniture,5,12000,0.05,57000.0,46411.73,10588.27,Debit Card,Store
+ORD0483,2024-07-10,Individual,Pune,Maharashtra,Desk,Furniture,5,12000,0.0,60000.0,40459.45,19540.55,Debit Card,Online
+ORD0484,2024-12-19,Student,Mumbai,Maharashtra,Headphones,Accessories,2,3500,0.1,6300.0,5552.33,747.67,Debit Card,Online
+ORD0485,2025-06-18,Corporate,Hyderabad,Telangana,Keyboard,Accessories,5,1800,0.0,9000.0,7359.88,1640.12,Debit Card,Store
+ORD0486,2024-02-21,Student,Surat,Gujarat,Backpack,Accessories,8,1800,0.0,14400.0,9980.49,4419.51,Net Banking,Online
+ORD0487,2024-08-28,Business,Mumbai,Maharashtra,Mouse,Accessories,5,1200,0.0,6000.0,4733.84,1266.16,Net Banking,Online
+ORD0488,2024-01-23,Student,Ahmedabad,Gujarat,Monitor,Electronics,5,16000,0.05,76000.0,61194.37,14805.63,Net Banking,Online
+ORD0489,2024-04-02,Student,Surat,Gujarat,Pen Set,Stationery,2,250,0.1,450.0,344.83,105.17,Net Banking,Store
+ORD0490,2024-12-30,Student,Mumbai,Maharashtra,Desk,Furniture,2,12000,0.1,21600.0,18186.31,3413.69,Net Banking,Online
+ORD0491,2025-07-09,Corporate,Surat,Gujarat,Bookshelf,Furniture,6,7000,0.05,39900.0,28121.25,11778.75,Cash,Online
+ORD0492,2024-01-25,Business,Delhi,Delhi,Notebook,Stationery,7,180,0.0,1260.0,1005.17,254.83,Credit Card,Store
+ORD0493,2025-01-10,Business,Delhi,Delhi,USB Drive,Accessories,6,900,0.1,4860.0,3579.32,1280.68,UPI,Online
+ORD0494,2024-03-01,Student,Bengaluru,Karnataka,Smartphone,Electronics,4,28000,0.0,112000.0,71490.53,40509.47,Net Banking,Online
+ORD0495,2024-02-05,Individual,Delhi,Delhi,Laptop,Electronics,4,55000,0.05,209000.0,161074.23,47925.77,Cash,Online
+ORD0496,2025-07-10,Corporate,Delhi,Delhi,Notebook,Stationery,5,180,0.15,765.0,585.0,180.0,Net Banking,Store
+ORD0497,2024-07-16,Student,Ahmedabad,Gujarat,Office Chair,Furniture,5,9000,0.0,45000.0,28685.48,16314.52,UPI,Online
+ORD0498,2024-05-08,Corporate,Pune,Maharashtra,Tablet,Electronics,3,22000,0.0,66000.0,48597.66,17402.34,Net Banking,Store
+ORD0499,2024-05-02,Individual,Surat,Gujarat,Printer,Office Equipment,6,14000,0.0,84000.0,66800.9,17199.1,Debit Card,Online
+ORD0500,2025-08-28,Business,Delhi,Delhi,Bookshelf,Furniture,6,7000,0.0,42000.0,30613.9,11386.1,UPI,Online
